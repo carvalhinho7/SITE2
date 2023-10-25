@@ -1,0 +1,30 @@
+header{
+    background-color: aqua;
+    padding: 20px 0;/* epaço em cima e embaixo do cabeçalho - espaçamento interno*/
+    }
+
+    .caixa{
+        position: relative;/*menu dentro da caixa*/
+        width: 940px:/*largura da caixa*/
+        margin 0 auto;
+    }
+
+    nav{
+        position: absolute;
+        top: 110px;
+        right: 0;
+    
+    }
+    nav li{
+        display: inline;
+        margin:0 0 0 15px;/*espaçamento externo*
+    }
+
+    nav a{
+        text-tranform: uppercase; /*letra maiúsculas*/
+        color: aqua; /* cor das letras aqua*/
+        font-weight: bold; /* fonte negrito*
+        font-size: 22px; /*tamanho da fonte*/
+        text-decoration: none;/* retirar o sublinhado do texto*/
+        
+    
